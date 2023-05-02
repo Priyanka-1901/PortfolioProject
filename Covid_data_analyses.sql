@@ -1,3 +1,8 @@
+-- Link to dataset https://ourworldindata.org/covid-deaths
+--In this Project we will see data exploration and cleansing of Covid-19 data using SQL, which involved cleaning and organizing 
+--the raw data to ensure accuracy and completeness
+
+--Check all the matrix and null values
 Select * from
 PortfolioProject.dbo.CovidDeaths
 --where new_cases = '0' and continent is not Null
@@ -8,7 +13,6 @@ Select location, date, total_deaths,total_cases, (total_deaths/total_cases)* 100
 PortfolioProject.dbo.CovidDeaths
 --where location = 'India'
 order by 1,2;
-
 
 --Total cases vs population in India
 Select location, date, population, total_cases, (total_cases/population)* 100 as PercentPopulationInfected from
@@ -29,7 +33,7 @@ Select location, max(cast(total_deaths as int)) as HighestDeathCount
 from PortfolioProject.dbo.CovidDeaths
 group by location
 order by HighestDeathCount desc;
---Here in output we will get oaction as world and continent as well but we want only countries so we need to add one more condition
+--Here in output we will get loaction as world and continent as well but we want only countries so we need to add one more condition
 
 --Country's highest death count
 Select location, max(cast(total_deaths as int)) as HighestDeathCount
@@ -52,8 +56,7 @@ where continent is not Null
 group by continent
 order by HighestDeathCount desc;
 
-
---Globally
+--Global Values
 
 --Death perct across the world on diff days
 Select date, sum(cast(new_cases as int)) as total_cases, sum(cast(new_deaths as int)) as total_deaths, 
@@ -63,17 +66,11 @@ where continent is not Null
 group by date
 order by 1,2;
 
---death percent globally
+--Death percent globally
 Select sum(cast(new_cases as int)) as total_cases, sum(cast(new_deaths as int)) as total_deaths, 
 sum(cast(new_deaths as int))/sum(new_cases)* 100 as DeathPercent
 from PortfolioProject..CovidDeaths
 where continent is not Null;
-
-
-Select * from
-PortfolioProject.dbo.CovidVaccinations
---where new_cases = '0' and continent is not Null
-order by date;
 
 --Joining both tables
 Select * from PortfolioProject..CovidDeaths dea
@@ -89,7 +86,6 @@ Join PortfolioProject..CovidVaccinations vac
 on dea.location = vac.location
 and dea.date = vac.date
 where dea.continent is not Null;
-
 
 --Population vs vaccinations on daily baises
 Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
@@ -158,6 +154,3 @@ Join PortfolioProject..CovidVaccinations vac
 	On dea.location = vac.location
 	and dea.date = vac.date
 where dea.continent is not null ;
-
-
-
