@@ -1,3 +1,7 @@
+---Link to dataset used "https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx"
+---This project utilized SQL to clean and preprocess a dataset of housing, ensuring data accuracy and completeness.
+
+---Analysing the dataset
 Select SaleDate, CONVERT(Date, SaleDate) from
 NashvilleHousing;
 
