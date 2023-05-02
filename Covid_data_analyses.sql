@@ -1,4 +1,4 @@
--- Link to dataset https://ourworldindata.org/covid-deaths
+-- Link to dataset "https://ourworldindata.org/covid-deaths"
 --In this Project we will see data exploration and cleansing of Covid-19 data using SQL, which involved cleaning and organizing 
 --the raw data to ensure accuracy and completeness
 
