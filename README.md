@@ -19,11 +19,14 @@ death numbers and global death statistics.
     Correcting inconsistent or erroneous data, such as misspelled city names or incorrect property types
     Normalizing and standardizing data where necessary, such as converting string values to uppercase or lowercase
 
+
 3. Movie Correlation Project : 
 ●	Conducted comprehensive data cleaning and exploration using Python, resulting in a dataset of over 10,000 movies with accurate and standardized information.
 ●	Utilized statistical analysis to uncover significant correlations between movie votes and budget to box office revenue, with these findings strategic decisions
 can be made by future film production.
 ●	Generated clear, visually engaging plots to communicate complex findings from data analyses to non-technical stakeholders, which can result in increase of 
 understanding and can be used to take more informed decision.
-.
 
+
+4. CodeX_Marketing_Team_Insights :
+   
