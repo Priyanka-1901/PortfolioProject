@@ -30,7 +30,9 @@ understanding and can be used to take more informed decision.
 
 4. CodeX_Marketing_Team_Insights :
 I have analyzed the survey results conducted by CodeX, a German beverage company, to gain meaningful insights for their Marketing team. As a marketing data analyst, I transformed the data using SQL and derived key findings to drive actionable strategies.
-   
+
+ 𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: 
+ 
 🔍 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: SQL queries were instrumental in analyzing and deriving insights from the survey data, showcasing the power of SQL in handling and transforming datasets. 📊💡
 
 🧹 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴: Employed data validation techniques to clean and validate survey data, ensuring accuracy and reliability in the analysis process. 🧹✅
