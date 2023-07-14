@@ -30,16 +30,16 @@ understanding and can be used to take more informed decision.
 
 4. CodeX_Marketing_Team_Insights :
 I have analyzed the survey results conducted by CodeX, a German beverage company, to gain meaningful insights for their Marketing team. As a marketing data analyst, I transformed the data using SQL and derived key findings to drive actionable strategies.
-
- 𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: 
- 
-🔍 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: SQL queries were instrumental in analyzing and deriving insights from the survey data, showcasing the power of SQL in handling and transforming datasets. 📊💡
-
-🧹 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴: Employed data validation techniques to clean and validate survey data, ensuring accuracy and reliability in the analysis process. 🧹✅
-
-🔢 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗶𝗼𝗻: SQL functions and expressions helped aggregate data and calculate key metrics, enabling the generation of actionable insights for decision-making. 📈🔢
-
-🔗 𝗝𝗼𝗶𝗻𝘀 𝗮𝗻𝗱 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀: Leveraged SQL joins to combine data from multiple tables, establishing relationships and uncovering valuable connections within the marketing dataset. 🤝🔗
-
-⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Employed SQL optimization techniques like views to enhance query performance, ensuring efficient data retrieval. ⚙️⏩
+    
+     𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: 
+     
+    🔍 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: SQL queries were instrumental in analyzing and deriving insights from the survey data, showcasing the power of SQL in handling and transforming datasets. 📊💡
+    
+    🧹 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴: Employed data validation techniques to clean and validate survey data, ensuring accuracy and reliability in the analysis process. 🧹✅
+    
+    🔢 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗶𝗼𝗻: SQL functions and expressions helped aggregate data and calculate key metrics, enabling the generation of actionable insights for decision-making. 📈🔢
+    
+    🔗 𝗝𝗼𝗶𝗻𝘀 𝗮𝗻𝗱 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀: Leveraged SQL joins to combine data from multiple tables, establishing relationships and uncovering valuable connections within the marketing dataset. 🤝🔗
+    
+    ⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Employed SQL optimization techniques like views to enhance query performance, ensuring efficient data retrieval. ⚙️⏩
 
