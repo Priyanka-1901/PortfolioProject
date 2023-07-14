@@ -5,7 +5,8 @@ As a passionate marketing data analyst, it was my responsibility to turn the sur
 These insights will guide CodeX's Marketing team to take strategic actions that will propel their brand awareness, increase market share, 
 and boost product development efforts. 💪💡
 
-So, what did I do? Let me spill the beans! ☕📊
+I have analyzed the survey results conducted by CodeX, a German beverage company, to gain meaningful insights for their Marketing team. 
+I transformed the data using SQL and derived key findings to drive actionable strategies.
 
 🌍 Indian Market: Analyzed the current landscape and identified potential opportunities for CodeX in the Indian market.
 
@@ -25,3 +26,17 @@ brand messaging, target audience segmentation, and channel selection to maximize
 
 These insights, backed by thorough analysis, will empower CodeX to refine their marketing strategies, stand out from competitors, and achieve 
 remarkable success in the F & B industry. Let's raise a toast to the future of CodeX! 🥂🚀
+
+ 𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁: 
+
+🔍 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: SQL queries were instrumental in analyzing and deriving insights from the survey data, showcasing the power of SQL in handling and transforming datasets. 📊💡
+
+🧹 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴: Employed data validation techniques to clean and validate survey data, ensuring accuracy and reliability in the analysis process. 🧹✅
+
+🔢 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗶𝗼𝗻: SQL functions and expressions helped aggregate data and calculate key metrics, enabling the generation of actionable insights for decision-making. 📈🔢
+
+🔗 𝗝𝗼𝗶𝗻𝘀 𝗮𝗻𝗱 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀: Leveraged SQL joins to combine data from multiple tables, establishing relationships and uncovering valuable connections within the marketing dataset. 🤝🔗
+
+⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Employed SQL optimization techniques like views to enhance query performance, ensuring efficient data retrieval. ⚙️⏩
+So, what did I do? Let me spill the beans! ☕📊
+
