@@ -29,31 +29,15 @@ understanding and can be used to take more informed decision.
 
 
 4. CodeX_Marketing_Team_Insights :
-Problem Statment: CodeX, a German beverage company, is all set to make waves in the Indian market with their new energy drink. 
-A few months ago, they unleashed their sensational product in 10 cities across India. 🌟
-
-As a passionate marketing data analyst, it was my responsibility to turn the survey results from those 10 cities into captivating insights.
-These insights will guide CodeX's Marketing team to take strategic actions that will propel their brand awareness, increase market share, 
-and boost product development efforts. 💪💡
-
-So, what did I do? Let me spill the beans! ☕📊
-
-🌍 Indian Market: Analyzed the current landscape and identified potential opportunities for CodeX in the Indian market.
-
-🎯 Customers: Explored customer preferences, behaviors, and demographics to understand target audience segments for effective marketing campaigns.
-
-💥 Codex's Penetration: Assessed the level of CodeX's penetration in the market and highlighted areas for further expansion and growth.
-
-👀 General Perception: Uncovered the perception and awareness of the CodeX energy drink among consumers, providing valuable insights for brand positioning.
-
-🔥 Competitors: Conducted a competitive analysis to understand the market presence and strategies of key competitors, enabling informed decision-making.
-
-🚀 Improvements: Identified areas of improvement within CodeX's current marketing initiatives to optimize brand visibility, customer engagement, 
-and sales performance.
-
-💡 Marketing Strategy Recommendations: Developed data-driven recommendations for CodeX's marketing team, encompassing promotional activities, 
-brand messaging, target audience segmentation, and channel selection to maximize market share and brand loyalty.
-
-These insights, backed by thorough analysis, will empower CodeX to refine their marketing strategies, stand out from competitors, and achieve 
-remarkable success in the F & B industry. Let's raise a toast to the future of CodeX! 🥂🚀
+I have analyzed the survey results conducted by CodeX, a German beverage company, to gain meaningful insights for their Marketing team. As a marketing data analyst, I transformed the data using SQL and derived key findings to drive actionable strategies.
    
+🔍 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: SQL queries were instrumental in analyzing and deriving insights from the survey data, showcasing the power of SQL in handling and transforming datasets. 📊💡
+
+🧹 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴: Employed data validation techniques to clean and validate survey data, ensuring accuracy and reliability in the analysis process. 🧹✅
+
+🔢 𝗔𝗴𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗮𝗹𝗰𝘂𝗹𝗮𝘁𝗶𝗼𝗻: SQL functions and expressions helped aggregate data and calculate key metrics, enabling the generation of actionable insights for decision-making. 📈🔢
+
+🔗 𝗝𝗼𝗶𝗻𝘀 𝗮𝗻𝗱 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀: Leveraged SQL joins to combine data from multiple tables, establishing relationships and uncovering valuable connections within the marketing dataset. 🤝🔗
+
+⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻: Employed SQL optimization techniques like views to enhance query performance, ensuring efficient data retrieval. ⚙️⏩
+
