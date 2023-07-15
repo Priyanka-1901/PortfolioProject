@@ -1,6 +1,7 @@
 Welcome to my Portfolio repository on GitHub!
 
 This repository contains a collection of my data analysis projects, showcasing my skills and experience as a data analyst.
+Presentation Link : https://www.linkedin.com/posts/priyanka-choudhary-008b89195_codebasicsresumeprojectchallenge-dataanalysis-activity-7086051355173240832-ee1l?utm_source=share&utm_medium=member_desktop
 
 Here's a brief overview of the projects included in this portfolio:
 
